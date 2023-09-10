@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://imaginative-conkies-988c50.netlify.app/](https://imaginative-conkies-988c50.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://akash-cv.netlify.app/](https://akash-cv.netlify.app/)
 
 - 📫 How to reach me **akashvinodhan@gmail.com**
 
