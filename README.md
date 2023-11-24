@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on MERN Stack<br><br>Portfolio:  https://akash-cv.netlify.app/<br><br>Reach me: akashvinodhan@gmail.com
+I am currently working on MERN Stack<br><br>Reach me: akashvinodhan@gmail.com
 
 
 # 💻 Tech Stack:
