@@ -1,5 +1,4 @@
-# 💫 About Me:
-I am currently working on MERN Stack<br><br>Reach me: akashvinodhan@gmail.com
+# 💫 About Me: MERN Stack<br><br>Reach me: akashvinodhan@gmail.com
 
 
 # 💻 Tech Stack:
